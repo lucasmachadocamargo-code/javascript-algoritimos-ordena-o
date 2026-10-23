@@ -1,1 +1,1 @@
-# javascript-algoritimos-ordena-o
+# javascript-algorit
